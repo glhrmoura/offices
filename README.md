@@ -1,4 +1,12 @@
-# Offices List
+<p align="center">
+  <img
+		style="object: contain;
+		height: 150px"
+		src="https://raw.githubusercontent.com/glhrmoura/offices/main/static/logo.png"
+	>
+</p>
+
+# :office: Offices List
 
 A simple office list, where you can add, edit and delete offices. Some animations and transitions were added to make the user experience more comfortable.
 
