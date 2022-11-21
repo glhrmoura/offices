@@ -1,0 +1,6 @@
+# Frontend Dependencies
+node_modules
+.nuxt
+
+# IDE
+.idea
