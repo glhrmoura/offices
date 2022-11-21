@@ -1,7 +1,6 @@
 <template>
-	<form
-		@submit.prevent
-		@keydown.enter.prevent
+	<div
+		@keydown.enter="save"
 		class="w-full bg-white overflow-hidden shadow-lg rounded-2 pt-4 pb-6 px-6"
 	>
 		<header class="flex justify-between items-center mb-10">
@@ -118,11 +117,10 @@
 			disabled:opacity-50 disabled:bg-gray-200 bg-blue-400 py-2 px-4 rounded-1 my-3
 			mx-0 text-white select-none"
 			@click="save"
-			@keydown.enter="save"
 		>
 			Save
 		</button>
-	</form>
+	</div>
 </template>
 
 <script>
