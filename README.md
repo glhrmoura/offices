@@ -1,7 +1,6 @@
 <p align="center">
   <img
-		style="object: contain;
-		height: 150px"
+		style="object: contain; height: 150px"
 		src="https://raw.githubusercontent.com/glhrmoura/offices/main/static/logo.png"
 	>
 </p>
@@ -28,6 +27,10 @@ Stack:
 -   VueMask
 -   Vuex (Modules)
 
+### Deploy
+
+[Offices](https://charming-hotteok-8dc02a.netlify.app)
+
 ### Commands
 
 #### Installation of dependencies
@@ -48,14 +51,14 @@ yarn dev
 yarn build
 ```
 
-#### Start the server in production mode (after running nuxt build).
-
-```
-npm start
-```
-
 #### Build the application and generate every route as a HTML file (used for static hosting).
 
 ```
 yarn generate
+```
+
+#### Start the server in production mode (after running nuxt build).
+
+```
+npm start
 ```
