@@ -1,0 +1,19 @@
+{
+  "name": "offices",
+  "author": "Guilherme Moura <mouraggui@gmail.com>",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.6",
+    "v-mask": "^2.2.3",
+    "vue-smooth-reflow": "^0.1.12",
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.1.0"
+  }
+}
