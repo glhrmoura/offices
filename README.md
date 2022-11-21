@@ -62,3 +62,9 @@ yarn generate
 ```
 npm start
 ```
+
+## License
+
+[MIT](https://github.com/glhrmoura/offices/blob/main/LICENSE)
+
+Copyright (c) Guilherme Moura
