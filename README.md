@@ -63,7 +63,7 @@ yarn generate
 npm start
 ```
 
-## License
+### License
 
 [MIT](https://github.com/glhrmoura/offices/blob/main/LICENSE)
 
