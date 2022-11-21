@@ -3,6 +3,8 @@ export default {
 
 	components: true,
 
+	srcDir: 'src/',
+
 	head: {
 		title: 'Offices',
 
@@ -26,9 +28,9 @@ export default {
 		link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
 	},
 
+	css: ['@/assets/css/main.css'],
+
 	plugins: ['plugins/injection'],
 
 	buildModules: ['@nuxtjs/tailwindcss'],
-
-	css: ['~/assets/css/main.css']
 };
