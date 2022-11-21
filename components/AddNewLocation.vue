@@ -9,7 +9,7 @@
 			>
 				<span>Add New Location</span>
 
-				<icon size="17px" alt="Plus icon" name="plus.svg" classColor="bg-white" />
+				<Icon size="17px" alt="Plus icon" name="plus.svg" classColor="bg-white" />
 			</button>
 		</Transition>
 
