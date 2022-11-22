@@ -27,43 +27,43 @@ Stack:
 -   VueMask
 -   Vuex (Modules)
 
-### Deploy
+## Demo
 
 [Offices](https://charming-hotteok-8dc02a.netlify.app)
 
-### Commands
+## Commands
 
-#### Installation of dependencies
+### Installation of dependencies
 
 ```
 yarn
 ```
 
-#### Launch a development server on localhost with hot-reloading
+### Launch a development server on localhost with hot-reloading
 
 ```
 yarn dev
 ```
 
-#### Build your application with webpack and minify the JS & CSS (for production)
+### Build your application with webpack and minify the JS & CSS (for production)
 
 ```
 yarn build
 ```
 
-#### Build the application and generate every route as a HTML file (used for static hosting)
+### Build the application and generate every route as a HTML file (used for static hosting)
 
 ```
 yarn generate
 ```
 
-#### Start the server in production mode (after running nuxt build)
+### Start the server in production mode (after running nuxt build)
 
 ```
 npm start
 ```
 
-### License
+## License
 
 [MIT](https://github.com/glhrmoura/offices/blob/main/LICENSE)
 
