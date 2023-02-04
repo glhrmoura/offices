@@ -5,7 +5,7 @@
 	/>
 </p>
 
-# :office: Offices
+# Offices
 
 A simple office list, where you can add, edit and delete offices. Some animations and transitions were added to make the user experience more comfortable.
 
