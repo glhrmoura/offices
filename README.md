@@ -29,7 +29,7 @@ Stack:
 
 ## Demo
 
-[Offices](https://charming-hotteok-8dc02a.netlify.app)
+[**Offices**](https://charming-hotteok-8dc02a.netlify.app)
 
 ## Commands
 
