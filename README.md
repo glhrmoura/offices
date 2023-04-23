@@ -5,11 +5,11 @@
 	/>
 </p>
 
-# Offices
+## Offices
 
 Office list manager, where you can add, edit and delete offices. Some animations and transitions were added to make the user experience more comfortable.
 
-## Tools
+### Tools
 
 -   Nuxt
 -   TailwindCSS
@@ -18,11 +18,11 @@ Office list manager, where you can add, edit and delete offices. Some animations
 -   VueMask
 -   Vuex (Modules)
 
-## Demo
+### Demo
 
 [**Offices**](https://charming-hotteok-8dc02a.netlify.app)
 
-## Setup
+### Setup
 
 #### Install
 
@@ -36,7 +36,7 @@ yarn install
 yarn dev
 ```
 
-## License
+### License
 
 [MIT](https://github.com/glhrmoura/offices/blob/main/LICENSE)
 
