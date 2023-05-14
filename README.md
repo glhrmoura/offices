@@ -9,6 +9,10 @@
 
 Office list manager, where you can add, edit and delete offices. Some animations and transitions were added to make the user experience more comfortable.
 
+### Demo
+
+[**Offices**](https://charming-hotteok-8dc02a.netlify.app)
+
 ### Tools
 
 -   Nuxt
@@ -17,10 +21,6 @@ Office list manager, where you can add, edit and delete offices. Some animations
 -   Vuelidate
 -   VueMask
 -   Vuex (Modules)
-
-### Demo
-
-[**Offices**](https://charming-hotteok-8dc02a.netlify.app)
 
 ### Setup
 
