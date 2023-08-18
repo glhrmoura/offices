@@ -22,20 +22,6 @@ Office list manager, where you can add, edit and delete offices. Some animations
 -   VueMask
 -   Vuex (Modules)
 
-### Setup
-
-#### Install
-
-```
-yarn install
-```
-
-#### Run
-
-```
-yarn dev
-```
-
 ### License
 
 [MIT](https://github.com/glhrmoura/offices/blob/main/LICENSE)
