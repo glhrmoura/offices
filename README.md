@@ -13,15 +13,6 @@ Office list manager, where you can add, edit and delete offices. Some animations
 
 [**Offices**](https://charming-hotteok-8dc02a.netlify.app)
 
-### Tools
-
--   Nuxt
--   TailwindCSS
--   Vue
--   Vuelidate
--   VueMask
--   Vuex (Modules)
-
 ### License
 
 [MIT](https://github.com/glhrmoura/offices/blob/main/LICENSE)
